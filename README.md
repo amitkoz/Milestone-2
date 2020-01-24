@@ -14,4 +14,3 @@ g++ -std=c++14 *.cpp -Wall -Wextra -Wshadow -Wnon-virtual-dtor -pedantic -o a.ou
  
 # Github link
 [Our Project](https://github.com/amitkoz/Milestone-2.git)
-
