@@ -13,5 +13,5 @@ In order to run the project you need to clone it, and use the following command:
 g++ -std=c++14 *.cpp -Wall -Wextra -Wshadow -Wnon-virtual-dtor -pedantic -o a.out -pthread
  
 # Github link
-[Our Project](https://github.com/amitkoz/FlightGearSimulator.git)
+[Our Project](https://github.com/amitkoz/Milestone-2.git)
 
